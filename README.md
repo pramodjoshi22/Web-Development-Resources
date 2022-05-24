@@ -9,17 +9,13 @@ Enjoy!
 
 If you like this repo, be sure to ⭐ it.
 
-Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new resources.
 
 --- 
 
-Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://twitter.com/denicmarko/status/1277492413032992768).
+Initially created by [Pramod Joshi](https://singlecoredevelopers.000webhostapp.com/)
 
 ---
 
-[preview on the web](https://nicedoc.io/markodenic/web-development-resources)
-
----
 
 ## Table of Contents
 
